@@ -1,0 +1,214 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "jeticonfont";
+  src:url("fonts/jeticonfont.eot");
+  src:url("fonts/jeticonfont.eot?#iefix") format("embedded-opentype"),
+    url("fonts/jeticonfont.woff") format("woff"),
+    url("fonts/jeticonfont.ttf") format("truetype"),
+    url("fonts/jeticonfont.svg#jeticonfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "jeticonfont" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "jeticonfont" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-amc:before {
+  content: "\41";
+}
+.icon-attach:before {
+  content: "\61";
+}
+.icon-call:before {
+  content: "\65";
+}
+.icon-cart:before {
+  content: "\63";
+}
+.icon-chat:before {
+  content: "\4d";
+}
+.icon-consumables:before {
+  content: "\43";
+}
+.icon-email:before {
+  content: "\6d";
+}
+.icon-home:before {
+  content: "\48";
+}
+.icon-logout:before {
+  content: "\6c";
+}
+.icon-orders:before {
+  content: "\4f";
+}
+.icon-payment:before {
+  content: "\70";
+}
+.icon-printers:before {
+  content: "\50";
+}
+.icon-profile:before {
+  content: "\4c";
+}
+.icon-search:before {
+  content: "\73";
+}
+.icon-settings:before {
+  content: "\54";
+}
+.icon-spares:before {
+  content: "\53";
+}
+.icon-filterkit:before {
+  content: "\46";
+}
+.icon-rupee:before {
+  content: "\72";
+}
+.icon-menuicon-consumables:before {
+  content: "\31";
+}
+.icon-menuicon-consumables1:before {
+  content: "\21";
+}
+.icon-menuicon-filter:before {
+  content: "\34";
+}
+.icon-menuicon-filter1:before {
+  content: "\24";
+}
+.icon-menuicon-printer:before {
+  content: "\32";
+}
+.icon-menuicon-printer1:before {
+  content: "\40";
+}
+.icon-menuicon-service:before {
+  content: "\36";
+}
+.icon-menuicon-service1:before {
+  content: "\5e";
+}
+.icon-menuicon-spares:before {
+  content: "\33";
+}
+.icon-menuicon-spares1:before {
+  content: "\23";
+}
+.icon-menuicon-amc:before {
+  content: "\35";
+}
+.icon-menuicon-amc1:before {
+  content: "\25";
+}
+.icon-sort:before {
+  content: "\5b";
+}
+.icon-status:before {
+  content: "\7e";
+}
+.icon-filter:before {
+  content: "\5d";
+}
+.icon-date:before {
+  content: "\44";
+}
+.icon-docedit:before {
+  content: "\45";
+}
+.icon-download:before {
+  content: "\64";
+}
+.icon-reports:before {
+  content: "\52";
+}
+.icon-officeloc:before {
+  content: "\6f";
+}
+.icon-ticket:before {
+  content: "\74";
+}
+.icon-backarrow:before {
+  content: "\62";
+}
+.icon-explore:before {
+  content: "\78";
+}
+.icon-approvals:before {
+  content: "\7b";
+}
+.icon-leavereport:before {
+  content: "\2f";
+}
+.icon-customers:before {
+  content: "\22";
+}
+.icon-dailyexpense:before {
+  content: "\5c";
+}
+.icon-support:before {
+  content: "\60";
+}
+.icon-servicerequest:before {
+  content: "\3d";
+}
+.icon-add:before {
+  content: "\2b";
+}
+.icon-delete:before {
+  content: "\2d";
+}
+.icon-back:before {
+  content: "\68";
+}
+.icon-view:before {
+  content: "\76";
+}
+.icon-breadcrumbs:before {
+  content: "\7a";
+}
+.icon-camera:before {
+  content: "\58";
+}
+.icon-menu:before {
+  content: "\69";
+}
+.icon-search1:before {
+  content: "\2a";
+}
+.icon-noti:before {
+  content: "\66";
+}
+.icon-qr:before {
+  content: "\67";
+}
+.icon-warranty:before {
+  content: "\6a";
+}
